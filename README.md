@@ -39,13 +39,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red")
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=silveiracamilo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=silveiracamilo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silveiracamilo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-da-silveira-40a41226/) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=silveiracamilo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=silveiracamilo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=silveiracamilo&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silveiracamilo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=silveiracamilo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
 **silveiracamilo/silveiracamilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
